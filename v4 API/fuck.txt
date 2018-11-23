@@ -1,0 +1,1 @@
+{'reports': [{'columnHeader': {'dimensions': ['ga:date', 'ga:source', 'ga:medium'], 'metricHeader': {'metricHeaderEntries': [{'name': 'ga:sessions', 'type': 'INTEGER'}, {'name': 'ga:bounces', 'type': 'INTEGER'}]}}, 'data': {'totals': [{'values': ['0', '0']}]}}]}
