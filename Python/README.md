@@ -1,1 +1,1 @@
-Python work that I started with.  Learning Python the Hard Way Files are here as well as a T-Test that I made.
+This is the first thing I ever made in Python.  It's just a simple t-test.
